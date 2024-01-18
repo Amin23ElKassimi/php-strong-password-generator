@@ -1,0 +1,13 @@
+body{
+    /* height: 50px; */
+    background-color:#001632;
+    color: white;
+}
+
+header img{
+    height: 50px;
+}
+
+#numberpass{
+    width: 200px ;
+}
